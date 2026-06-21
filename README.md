@@ -1,4 +1,4 @@
-# LdG-BI-ReportingPortal
+# LdG-ReportingPortal
 Portal empresarial desarrollado para centralizar información, reportes y métricas de negocio, proporcionando una base escalable para soluciones de Business Intelligence, análisis de datos y toma de decisiones basada en información confiable.
 
 ## Project Overview
